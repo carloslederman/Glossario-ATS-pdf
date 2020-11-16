@@ -1,0 +1,39 @@
+# L {-}
+
+licenciamento
+
+Uma autorização de marketing para medicamentos que aderem a padrões de segurança, qualidade ou eficácia.
+
+licensing
+
+A marketing authorisation for medicines which meet standards of safety, quality and efficacy.
+
+******
+
+lista de referência
+
+Uma lista de documentos citados num trabalho, e usualmente encontrados ao final do texto. Nota: a citação de cada documento inclui o(s) nome(s) do(s) autor(es), o título, a fonte e o ano de publicação, e segue um estilo de apresentação específico (por exemplo, o Estilo Vancouver).
+
+reference list
+
+A list of the documents cited in a work, and usually found at the end of the text. Note: The entry for each document includes the name(s) of the author(s), the title, the source and the year of publication, and follows a specific presentation style (the Vancouver Style, for example).
+
+******
+
+literatura cinza
+
+Documentos publicados para uma audiência limitada, fora dos principais canais de distribuição, e difícil de encontrar nas bases de dados usuais, tais como: apresentações em conferências, avaliações de tecnologia da saúde feitas por hospitais e certos documentos governamentais. Nota: existe uma falta de unanimidade sobre a definição de literatura cinza, pois as fronteiras dessa  literatura se deslocam continuamente e evoluem à medida em que novos meios técnicos são desenvolvidos.
+
+grey literature
+
+The documents published for a limited audience, outside the major distribution channels, and difficult to find in the usual databases, such as presentations at conferences, health technology assessments done by hospitals, and certain government documents. Note: There is a lack of unanimity on the definition of grey literature, as the boundaries of this literature continually shift and evolve as new technical means are developed.
+
+******
+
+logaritmo da razão de chances
+
+Um logaritmo natural usado em modelos logísticos e em representações gráficas de razões de chances
+
+log-odds ratio
+
+A natural logarithm used in logistic models and graphical representations of odds ratios.

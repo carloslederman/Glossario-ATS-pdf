@@ -1,0 +1,39 @@
+# U {-}
+
+unidade de alocação
+
+Num ensaio, a unidade atribuida a uma das intervenções de interesse. Nota: a unidade escolhida pode ser uma pessoa, mas, em alguns ensaios, um grupo pode ser escolhido para reduzir o risco de contaminação ou por conveniência; uma unidade também pode ser um hospital ou comunidade. Em outros ensaios, diferentes partes de uma pessoa (tais como o olho esquerdo ou direito) podem ser estabelecidas para receber intervenções diferentes.
+
+unit of allocation
+
+In a trial, the unit assigned to one of the interventions of interest. Note: The unit chosen may be a person, but, in some trials, a group may be chosen to reduce the risk of contamination or for convenience; a unit may also be a hospital or community. In other trials, different parts of a person (such as the left or right eye) may be assigned to receive different interventions.
+
+******
+
+usuário
+
+Uma pessoa que está sob cuidados médicos ou tratamento. (O mesmo que consumidor e paciente)
+
+user
+
+See consumer and patient.
+
+******
+
+usuário de revisões
+
+Um paciente, profissional da saúde ou tomador de decisão usando uma revisão de literatura para tomar decisões práticas sobre cuidados, ou um pesquisador conduzindo ou considerando uma nova pesquisa.
+
+user of reviews
+
+A patient, health professional or decision maker using a literature review to make practical decisions about care, or a researcher conducting or considering new research.
+
+******
+
+utilidade
+
+1) Em análise econômica e em análise de decisão, o desejo de um específico estado de saúde ou desfecho em saúde, usualmente expresso como sendo um contínuo de zero a um (morte tendo um valor de utilidade zero e uma vida totalmente saudável tendo um valor de utilidade igual a um). Nota: este termo é frequentemente usado como sinônimo de preferência. 2) O desejo relativo ou a preferência para que ocorra um desfecho em saúde específico, ou um estado de saúde (usualmente pela perspectiva do paciente).
+
+utility
+
+1) In economic and decision analysis, the desirability of a specific health status or health outcome, usually expressed as being on a continuum from zero to one (death having a utility value of zero, and a full healthy life having a utility value of one). Note: This term is often used as a synonym for preference. 2) The relative desirability of, or preference for, a specific health outcome or health status (usually from the perspective of the patient).

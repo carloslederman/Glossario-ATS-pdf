@@ -1,0 +1,89 @@
+# F {-}
+
+Farmacoeconomia
+
+Uma disciplina para avaliação econômica de produtos e serviços  farmacêuticos  através da determinação, medida e comparação de seus custos e desfechos. Redação alternativa: Fármaco-economia
+
+pharmacoeconomics
+
+A discipline for economic evaluation of pharmaceutical products and services through determination, measurement and comparison of their costs and outcomes. Alternate spelling: pharmaco-economics
+
+******
+
+fator de risco
+
+Um fator associado com a ocorrência de um problema de saúde. Nota: pode ser um comportamento pessoal, estilo de vida, exposição a perigos ambientais, características congênitas ou hereditárias, etc. Por exemplo, fumar é um fator de risco para câncer no pulmão.
+
+risk factor
+
+A factor associated with the occurrence of a health problem. Note: It may be personal behaviour, lifestyle, exposure to environmental hazards, congenital or hereditary characteristics, etc. For example, smoking is a risk factor for lung cancer.
+
+******
+
+folheto para informação do paciente
+
+Um documento escrito para pacientes e para o público em geral que apresenta com clareza informação-chave sobre um tratamento ou procedimento, incluindo um explicação clara de termos técnicos.
+
+patient information leaflet
+
+A written document for patients and the general public that clearly presents the key information about a treatment or procedure, including a clear explanation of any technical terms.
+
+******
+
+formulário
+
+Uma nomenclatura das drogas cobertas no todo ou em parte num plano de seguro.
+
+formulary
+
+A nomenclature of the drugs covered in whole or in part under an insurance plan.
+
+******
+
+fronteira eficiente
+
+Uma curva formada pelos incrementos das razões de custo-efetividade ou custo-utilidade numa representação gráfica de comparadores não dominantes.
+
+efficient frontier
+
+A curve formed by the incremental cost-effectiveness or cost-utility ratios in a graphical representation of the non-dominated comparators.
+
+******
+
+garantia da qualidade
+
+Um método combinando todas as ações pré-determinadas e sistemáticas necessárias para prover uma confiança apropriada de que o produto ou serviço atendem aos requisitos da qualidade. Nota: a garantia da qualidade inclui a definição e aplicação de padrões de cuidados com a saúde baseada no melhor conhecimento disponível, e isso envolve a avaliação da qualidade e atividades para corrigir e reduzir variações nas práticas de cuidados com a saúde relativas a esses padrões, ou para melhorar tais práticas.
+
+quality assurance
+
+A method combining all the pre-determined and systematic actions needed to provide appropriate confidence that a product or service will meet given quality requirements. Note: Quality assurance includes setting and applying health care standards based on the best available knowledge, and this involves quality assessment and activities to correct and reduce variations in health care practices relative to these standards, or to improve those practices.
+
+******
+
+generalizabilidade
+
+Veja validade externa. Outra forma de escrita: generalizabilidade.
+
+generalizability
+
+See external validity.  Alternate spelling: generalisability.
+
+******
+
+gerenciamento de doenças
+
+1) Um processo sistemático de gerenciamento do cuidado de pacientes com doenças específicas ou condições (particularmente condições crônicas), incluindo serviços ambulatoriais, de internamento e auxiliares, com o objetivo de, entre outros, reduzir episódios agudos, hospitalizações e variações no cuidado da saúde e em práticas de serviços, melhorando o desfecho em saúde e reduzindo custos. Nota: o gerenciamento de doenças pode envolver a melhoria contínua da qualidade e outros paradigmas de gerenciamento. Pode envolver um processo cíclico ou seguir protocolos da prática profissional, medindo o resultado dos desfechos, retroalimentando esses resultados para os médicos e revisando protocolos se adequado. 2) Todos os cuidados e serviços proporcionados a um paciente.
+
+disease management
+
+1) A systematic process of managing care of patients with specific diseases or conditions (particularly chronic conditions), including outpatient, inpatient, and ancillary services, and aimed at, among other things, reducing acute episodes, hospitalizations and variations in health care and services practices, improving health outcomes, and reducing costs. Note: Disease management may involve continuous quality improvement or other management paradigms. It may involve a cyclical process of following professional practice protocols, measuring the resulting outcomes, feeding those results back to clinicians, and revising protocols as appropriate. 2) All the care and services with which a patient is provided.
+
+******
+
+gráfico de funil
+
+Um diagrama de dispersão no qual cada ponto representa um estudo, relatando o efeito estimado e o tamanho da amostra (ou outro indicador de precisão do estudo). Nota: na ausência de viés de publicação, o diagrama de dispersão formará um funil invertido. Um buraco no canto esquerdo do funil indicará a presença de um viés de publicação.
+
+funnel plot
+
+A scatter diagram in which each point represents a study, relating the estimate of effect and the sample size (or another indicator of the precision of the study). Note: In the absence of publication bias, the scatter diagram will form an inverted funnel. A hole in the lower left corner of the funnel indicates the presence of publication bias.

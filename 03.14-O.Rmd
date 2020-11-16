@@ -1,0 +1,10 @@
+# O {-}
+
+ocultação da distribuição
+
+é o processo usado para se distribuir grupos de pacientes num RCT (ensaio controlado e randomizado) de forma a evitar a previsão (pela pessoa gerenciando a alocação bem como os pacientes dessa distribuição. Números de registros médicos, números de identificação de pessoas ou datas de aniversário não são adequados para a ocultação da distribuição. Certos esquemas centralizados de randomização e números sequenciais selados, envelopes opacos estão entre os métodos adequados de ocultação da distribuição (veja também cegamento).
+
+concealment of allocation
+
+The process used to assign patients to alternative groups in an RCT in a manner that prevents foreknowledge (by the person managing the allocation as well as the patients) of this assignment. Medical record numbers, personal identification numbers, or birthdays are not adequate for concealment of allocation. Certain centralized randomization schemes and sequentially numbered sealed, opaque envelopes are among adequate methods of allocation concealment. (See also blinding)
+

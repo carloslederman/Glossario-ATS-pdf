@@ -1,0 +1,306 @@
+# R {-}
+
+randomização
+
+A alocação randômica de indivíduos num ensaio clínico para os grupos de intervenção e de controle, usando mecanismos tais como uma tabela de números aleatórios ou números aleatórios gerados por um computador. Nota: este tipo de alocação reduz potenciais viéses na atribuição de um indivíduo porque tende a neutralizar fatores conhecidos e desconhecidos de prognóstico, pela dispersão destes entre os grupos de controle e de intervençõ. A randomização é uma condição básica para a validação de muitos testes estatísticos. A alocação não randômica sistemática, ou não estritamente randômica, que aloca os indivíduos com base em elementos tais como o dia da semana, nome, data de nascimento, etc. não é equivalente à randomização e pode levar a sérios viéses. (Conceito relacionado: cegamento). 
+
+randomization
+
+The random allocation of subjects of a clinical trial to the intervention and control groups using mechanisms such as a random number table or a computer-generated random number list. Note: This type of allocation reduces potential bias in subject assignment because it tends to neutralise known and unknown prognostic factors by spreading them evenly between the intervention and control groups. Randomisation is a basic condition to the validity of many statistical tests. Non-random systematic allocation, or quasi randomisation, which allocates the subjects on the basis of elements such as day of the week, name, date of birth, etc., is not equivalent to randomisation and can lead to serious biases. (Related concept: blinding). Alternate spelling: randomisation.
+
+******
+
+randomização estratificada
+
+Um método para assegurar que um número igual de participantes com uma característica que possa influenciar o prognóstico ou a resposta à intervenção possa ser alocada a cada um dos grupos comparados, para reduzir o potencial viés de confusão. Por exemplo, num estudo de câncer no seio, pode ser importante ter a mesma proporção de mulheres pré e pós a menopausa em cada grupo. Para essa finalidade, a randomização é feita separadamente para cada estrato de estado da menopausa (frequentemente usando a randomização permutada em blocos) ou por meio de minimização.
+
+stratified randomization
+
+A method for ensuring that an equal number of participants with a characteristic that may influence the prognosis or the response to the intervention will be allocated to each of the compared groups, to reduce the potential for confusion bias. Note: For example, in a breast cancer study, it may be important to have the same proportion for pre-menopausal and post-menopausal women in each group. To that end, the randomisation is done separately for each menopausal status stratum (often using random permuted blocks) or by means of minimization.  Alternate spelling: stratified randomisation.
+
+******
+
+randomização permutada em blocos
+
+Um método de randomização que garante que, em qualquer ponto de um ensaio, um número igual de indivíduos foram alocados em cada grupo sendo comparado. Nota: permutação em blocos é frequentemente utilizada em combinação com a randomização estratificada.
+
+random permuted block
+
+A method of randomization that ensures that, at any point in a trial, an equal number of subjects have been allocated to each comparison group. Note: Permuted blocks are often used in combination with stratified randomization.
+
+******
+
+razão de chances (OR)
+
+A proporção (o quociente) da probabilidade da exposição entre os casos (de indivíduos que estão doentes ou que morreram, por exemplo) com relação os casos de controle (indivíduos que não estão doentes ou que estão vivos, por exemplo). Nota: a razão de chances é a estimativa do risco relativo usado num tipo de estudo (caso controle) no qual é impossível calcular diretamente o risco relativo. É uma boa estimativa do risco relativo nos casos nos quais a doença é rara. Assim, se os resultados de um ensaio são de que a probabilidade de morte é de 25% no grupo controle e de 10% no grupo de intervenção, a razão de chances de sobrevivência é [0,10 ÷ (1 - 0,10)] ÷ [(0,25 ÷ (1 - 0,25)]=0,33. (conceitos relacionados: redução do risco absoluto, número necessário para tratar e risco relativo)
+
+odds ratio (OR)
+
+The ratio (quotient) of the exposure odds among the cases (subjects who are ill or have died, for example) to that among the controls (subjects who are not ill or who are alive, for example). Note: The odds ratio is the estimate of relative risk used in a type of study (case-control) in which it is impossible to calculate relative risk directly. It is a good estimate of relative risk in cases in which the disease is rare. Thus, if the results of a trial are that the probability of death is 25% in the control group and 10% in the experimental group, the odds ratio of survival is [0.10 ÷ (1.0 - 0.10)] ÷ [(0.25 ÷ (1.0 - 0.25)] = 0.33. (Related concepts: absolute risk reduction, number needed to treat and relative risk)
+
+******
+
+razão de verossimilhança
+ 
+1) Em epidemiologia clínica, a razão da comparação de probabilidades de se obter um teste positivo em pessoas com uma doença contra as que não a tem. Nota: a razão de verossimilhança é estimada como a sensibilidade ÷ (1-especificidade). É também possível se estimar a razão de verossimilhança de um resultado negativo: (1-sensibilidade) ÷ especificidade. 2) em modelagem estatística, um indicador da comparação entre a aderência aos dados de dois modelos aninhados.
+
+likehood ratio
+
+1) In clinical epidemiology, a ratio comparing the probabilities of obtaining a positive test in persons with the disease with those of doing so in persons without the disease. Note: The likelihood ratio is estimated as sensitivity ÷ (1 minus specificity). It is also possible to estimate the likelihood ratio of a negative result: (1 minus sensitivity) ÷ specificity. 2) In statistical modelling, an indicator comparing the fit of two nested models to the data.
+
+******
+
+reação adversa
+
+veja efeito adverso
+
+adverse reaction
+
+see adverse effect
+
+******
+
+redução absoluta do risco
+
+é a diferença entre a probabilidade que um evento ocorrerá no grupo exposto a um dado fator e a probabilidade que esse  evento ocorrerá no grupo não exposto a esse fator.
+
+absolute risk reduction
+
+The value of the difference between the probability that an event will occur in the group exposed to a given factor and the probability that this event will occur in the group not exposed to this factor.
+
+******
+
+redução relativa do risco
+
+A proporção (quociente) da diferença de risco para a ocorrência de um evento no grupo exposto a um dado fator e a probabilidade que esse evento ocorrerá no grupo não exposto a esse fator. Nota: assim, se os resultados de um ensaio mostrarem que a probabilidade de morte é de 25% no grupo controle e de 10% no grupo experimental, a redução relativa do risco é (0,25 - 0,10) ÷ 0,25 = 0,6. (conceitos relacionados: redução absoluta do risco, número necessário para tratar, e razão de chances).
+ 
+******
+
+registro
+
+Veja banco de dados
+
+register
+
+See database.
+
+******
+
+registro
+
+Um arquivo no qual é registrada, continuamente, informação relativa a todos os casos de uma dada doença ou outro problema numa população definida, de modo que os casos possam ser relacionados ao banco de dados referentes a essa população.
+
+registry
+
+A file in which is registered, on an ongoing basis, information concerning all cases of a given disease or other problem in a defined population, such that the cases may be related to the database concerning that population.
+
+******
+
+registros de ensaios
+
+Um banco de dados de citações sobre ensaios randomizados controlados e ensaios clínicos controlados na Cochrane Collaboration. Nota: este banco de dados inclui informação sobre ensaios em andamento e não publicados.
+
+trials register
+
+A database of citations on randomised controlled trials and controlled clinical trials in the Cochrane Collaboration. Note: This database includes information about unpublished and ongoing trials.
+
+******
+
+regressão múltipla
+
+Veja análise de regressão
+
+multiple regression
+
+See regression analysis.
+
+******
+
+regressão ponderada por mínimos quadrados
+
+Uma extensão da regressão de mínimos quadrados usada quando há uma heterogeneidade nas variâncias ou dependência entre as observações. Nota: Este método é frequentemente usado em meta-regressões, e os pesos correspondem então à precisão de cada estimativa de efeito do estudo.
+
+weighted least squares regression
+
+An extension of least squares regression used when there is heterogeneity in the variances or dependence between the observations. Note: This method is often used in meta-regression, and the weights then correspond to the precision of each study’s estimate of effect. 
+
+******
+
+relatório de ATS
+
+Um relatório que inclui uma revisão compreensiva e sistemática da literatura, ou uma revisão sistemática de evidências de alto nível, avaliando a segurança e a efetividade de uma tecnologia, bem como uma análise do custo-efetividade de uma tecnologia. Nota 1: o relatório sempre: descreve as caracteríticas e o uso atual da tecnologia; avalia criticamente a qualidade da base da evidência; provê informação dos custos do impacto financeiro; e discute considerações organizacionais. Nota 2: o relatório pode opcionalmente endereçar considerações éticas, sociais e legais derivadas do uso da tecnologia. Nota 3: o custo-efetividade da tecnologia pode ser endereçado através de modelagem econômica, quando apropriado. Nota 4: termos relacionados incluem ATS (avaliação de tecnologia em saúde), mini-ATS, revisão rápida, nível de evidência.
+
+HTA report
+
+A report that includes a comprehensive systematic literature review, or a systematic review of high level evidence, evaluating the safety and effectiveness of a technology, as well as an analysis of the cost-effectiveness of the technology. Note 1: The report always: • describes the characteristics and current use of the technology; • critically appraises the quality of the evidence base; • provides information on costs and financial impact; and • discusses organisational considerations. Note 2: The report may optionally address ethical, social and legal considerations arising from use of the technology. Note 3: The cost-effectiveness of the technology may be addressed through economic modelling, when it is appropriate. Note 4: Related terms include health technology assessment, mini-HTA, rapid review, level of evidence.
+
+******
+
+relatório de caso
+
+em pesquisa clínica: um estudo observacional não controlado de uma intervenção ou exposição a um dado fator, e o seu desfecho num único indivíduo. Em pesquisa social: um método empírico que estuda um fenômeno contemporâneo no seu contexto natural, quano a relação entre o fenômeno e seu contexto é complexa, e quando são necessárias várias fontes de dados para o entendimento da relação.
+
+case report
+
+In clinical research: an uncontrolled observational study of an intervention or of exposure to a given factor, and of its outcome in a single individual. In social research: an empirical research method that studies a contemporary phenomenon in its natural context, when the relationship between the phenomenon and its context is complex, and when a number of data sources are needed in order to understand the relationship.
+
+******
+
+relatório de consenso
+
+Recomendações ou diretrizes práticas produzidas através de consenso especializado
+
+consensus report
+
+The recommendations or practice guideline produced through expert consensus.
+
+******
+
+representação esquemática causal
+
+uma representação, esquemática, por exemplo, de relações diretas e indiretas entre intervenções e desfechos. Nota: para um problema clínico, este método tipicamente inclui um elemento populacional, uma ou mais modalidades de intervenção (Por exemplo: triagens, diagnósticos ou tratamentos), desfechos intermediários (i.e. marcadores biológicos) e desfechos em saúde. Representações causais são feitas para clarificar e explicitar as questões a serem respondidas por uma avaliação, e são úteis na identificação de relações cruciais para os quais dados científicos possam esta faltando.
+
+causal pathway
+
+A depiction, in a schematic, for example, of the direct and indirect linkages between interventions and outcomes. Note: For a clinical problem, this method typically includes a subject population, one or more intervention modalities (e.g. screening, diagnoses or treatment), intermediate outcomes (e.g. biological markers) and health outcomes. Causal pathways are intended to clearly and explicitly define the questions to be addressed in an assessment, and they are useful in identifying pivotal linkages for which scientific data may be lacking.
+
+******
+
+representação esquemática clínica
+
+uma representação esquemática do cuidado clínico sistemático de um paciente que propõe, para um período de tratamento relativo a um diagnóstico simples, uma coordenação otimizada na entrega do cuidado proporcionado por médicos e outros profissionais da saúde, desde o momento em que o diagnóstico é confirmado até o momento em que o paciente é admitido, mais o estágio de reabilitação e os cuidados na residência (home care)
+
+clinical pathway
+
+A graphical depiction of the systematic clinical care of a patient that proposes, for a treatment period related to a single diagnosis, an optimal co-ordination of the delivery of care provided by physicians and other health professionals, from when the diagnosis is confirmed to when the patient is admitted, and at the stage of rehabilitation and home care.
+
+******
+
+representante do paciente
+
+veja advogado do consumidor
+patient representative
+
+See consumer advocate.
+
+******
+
+resolução
+
+A capacidade de um dispositivo de imagem distinguir dois objetos separados tanto por uma distância física (resolução espacial) ou por sua composição (resolução por contraste).
+
+resolution
+
+The ability of an imaging device to distinguish two objects that are separate in either physical distance (spatial resolution) or in composition (contrast resolution).
+
+******
+
+resumo da característica de operação do receptor (SROC)
+
+Numa revisão sistemática de estudos em testes diagnósticos ou de triagem, uma representação gráfica da relação entre a proporção de verdadeiros positivos (sensibilidade) e os falsos positivos (1 - especificidade), em todos os estudos individuais de um dado teste. Nota: uma linha de regressão pode ser ajustada através desses pontos.
+
+summary receiver operating curve (SROC)
+
+In a systematic review of studies on diagnostic or screening tests, a graphical depiction of the relationship between the true positive ratio (sensitivity) and the false positive ratio (1 - specificity) in all of the individual studies on a given test. Note: A regression line can be fitted through these points.
+
+******
+
+revisão
+
+Uma síntese de informação sobre um tópico em particular. Nota 1: uma revisão pode ou não ser compreensiva ou tomar outras medidas para reduzir viés, como no caso de revisões sistemáticas. Nota 2: termos relacionados incluem revisão sistemática; revisão narrativa; revisão de escopo; revisão rápida; meta análise; revisão Cochrane; revisão por pares. Nota 3: sinônimos incluem revisão de literatura; visão geral.
+
+review
+
+A synthesis of information on a particular topic.   Note 1: A review may or may not be comprehensive or take other measures to reduce bias, as is the case with systematic reviews. Note 2: Related terms include systematic review; narrative review; scoping review; rapid review; meta-analysis; Cochrane review; peer review. Note 3: Synonyms include literature review; overview.
+
+******
+
+Revisão Cochrane
+
+resumo metodológico atualizado de evidências científicas confiáveis dos riscos e benefícios associados com vários tipos de intervenção em cuidados. Nota: as revisões sistemáticas da Cochrane pretendem facilitar a tomada de decisões em matérias da saúde. Para ser denominada uma "revisão Cochrane", a revisão deve estar no banco de dados "pai" mantido pela colaboração Cochrane. Este banco de dados é composto de módulos de revisões sistemáticas. As revisões são colocadas num dos módulos segundo a recomendação da equipe editorial de um dos grupos de revisão colaborativa (CRGs) registrado na Colaboração Cochrane. Os autores da revisão sistemática devem aderir às diretrizes publicadas no Manual de Revisores Cochrane. A metodologia da revisão sistemática Cochrane é preparada usando o software Review Manager (RevMan) produzido pela Colaboração e aderente ao formato da estrutura definido no Manual.
+
+Cochrane review
+
+A methodical and up-to-date summary of reliable scientific evidence of the risks and benefits associated with various care interventions. Note: Systematic Cochrane reviews are intended to facilitate decision making in health matters. To be called a “Cochrane review,” a review must be in the Parent Database maintained by the Cochrane Collaboration. This database is composed of modules of systemic reviews. The reviews are placed in one of the modules on the recommendation of the editorial team of one of the collaborative review groups (CRGs) registered with the Cochrane Collaboration. The authors of the systemic reviews must adhere to the guidelines published in the Cochrane Reviewers’ Handbook. The methodology of a systematic Cochrane review is prepared using the Review Manager (RevMan) software produced by the Collaboration and adheres to a structured format defined in the Handbook.
+
+******
+
+revisão de literatura
+
+Um sumário, com ou sem interpretação, dos resultados de uma pesquisa reportados na literatura científica. Nota: uma revisão de literatura pode incluir pesquisas qualitativas, bem como várias análises sistemáticas e quantitativas, tais como meta-análises.
+
+literature review
+
+A summary, with or without interpretation, of the research findings reported in the scientific literature. Note: A literature review may include qualitative research, as well as various systematic and quantitative analyses, such as meta-analyses.
+
+******
+
+revisão de narrativa
+
+Uma visão geral de estudos originais que não tenham sido identificados ou analisados de uma forma sistemática (ou seja, padronizada e objetiva). 
+
+narrative review
+
+An overview of original studies which have not been identified or analysed in a systematic (i.e. standardised and objective) way.
+
+******
+
+revisão rápida
+
+Um relatório ue usualmente inclui uma revisão do nível de evidência mais alto ou de evidência recente, e que pode restringir a literatura em uma ou duas bases de dados. Nota 1: o relatório sempre: • descreve as características e o uso atual da tecnologia e • avalia as questões de segurança e efetividade. Nota 2: o relatório nem sempre criticamente avalia a qualidade da base da evidência ou provê informação sobre custos e impacto financeiro. Nota 3: uma revisão rápida tipicamente não é tão rigorosa quanto um relatório mini-HTA ou um relatório HTA mas é de confecção mais rápida. Nota 4: termos relacionados incluem avaliação de tecnologia em saúde, relatório HTA, mini-HTA, nível de evidência.
+
+rapid review
+
+A report that usually includes a review of the highest level of evidence or of recent evidence and that may restrict the literature to one or two databases. Note 1: The report always: 
+• describes the characteristics and current use of the technology, and 
+• evaluates safety and effectiveness issues Note 2: The report does not always critically appraise the quality of the evidence base or provide information on costs and financial impact. Note 3: A rapid review is typically not as rigorous as a mini-HTA or a HTA report but is quicker to produce. Note 4: Related terms include health technology assessment, HTA report, mini-HTA, level of evidence.
+
+******
+
+revisão sistemática
+
+Uma síntese que coleta todas as evidências aderentes ao critério de elegibilidade pré-especificado de modo a responder a uma questão específica de pesquisa. Nota 1: revisões sistemáticas são conduzidas de acordo com um protocolo pré-especificado. Os métodos usados são selecionados com o propósito de reduzir viéses, promovendo assim descobertas mais confiáveis das quais as conclusões poderão ser obtidas e as decisões tomadas. Nota 2: muitas revisões sistemáticas contem meta análises. Uma meta análise consiste no uso de métodos estatísticos para resumir os resultados de estudos independentes.
+
+systematic review
+
+A synthesis that collates all empirical evidence fitting pre-specified eligibility criteria in order to answer a specific research question. Note 1: Systematic reviews are conducted according to a pre-specified protocol. The methods used are selected with a view to minimizing bias, thus providing more reliable findings from which conclusions can be drawn and decisions made. Note 2: Many systematic reviews contain meta-analyses. A meta-analysis is the use of statistical methods to summarize the results of independent studies.
+
+******
+
+revisor
+
+No contexto da revisão Cochranem uma pessoa responsável por preparar ou atualizar a revisão.
+
+reviewer
+
+In the context of a Cochrane review, a person responsible for preparing or updating the review.
+
+******
+
+risco  
+
+A probabilidade de que um evento, geralmente adverso, possa ocorrer. Nota: esta probabilidade pode ser estimada como a proporção de pessoas num grupo com as quais um evento ocorrer. (conceito relacionado: fator de risco).
+
+risk
+
+The probability that an event, generally adverse, will occur. Note: This probability can be estimated as the proportion of persons in a group for whom an event occurs. (Related concept: risk factor).
+
+******
+
+risco relativo
+
+A proporção (quociente) do risco que um evento ocorrerá entre os indivíduos expostos a um dado fator e o risco de que esse evento ocorrerá entre os indivíduos não expostos a esse fator. Nota: o risco relativo (RR) = 1 indica que o risco é igual nos grupos comparados; RR > 1 indica que o fator aumenta o risco e RR<1 indica que o fator diminui o risco. Sinônimo: proporção de risco.
+
+risco  
+
+A probabilidade de que um evento, geralmente adverso, possa ocorrer. Nota: esta probabilidade pode ser estimada como a proporção de pessoas num grupo com as quais um evento ocorrer. (conceito relacionado: fator de risco).
+
+******
+
+roteiro do paciente
+
+veja roteiro clínico
+
+patient pathway
+
+See clinical pathway.

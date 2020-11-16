@@ -1,0 +1,312 @@
+# D {-}
+
+dados binários
+
+dados que podem ter apenas dois valores, tais como morto ou vivo, fumante ou não fumante, presente ou ausente, homem ou mulher. Este é um caso específico de dados categóricos, onde o número de categorias é igual a 2.
+
+binary data
+
+Data that can have only two values, such as dead or alive, smoker or non-smoker, present or absent, or man or woman. Note: This is a specific case of a categorical data, where the number of categories is equal to 2. 
+
+******
+
+dados categóricos
+
+dados que podem ser classificados em duas ou mais categorias. Nota: quando existe uma ordem para as categorias, o termo usado é "dados ordenados" (i.e. estágios de cancer ou nível educacional). Quando não existe uma ordem, o termo usado é "dados nominais"  (Exemplo: grupo sanguíneo, estado civil ou grupo étnico). Não há relação matemática entre os valores (Exemplo: pessoa com câncer no estágio IV não está duas vezes mais doente do que uma pessoa com câncer no estágio II).
+
+categorical data
+
+Data that can be classified into two or more categories. Note: When there is an order to the categories, the term used is ordinal data (e.g. stages of cancer or level of education). When there is no order, the term used is nominal data (e.g. blood group, civil status or ethnic origin). There is no mathematical relationship between the values (e.g. a person with Stage IV cancer is not twice as sick as a person with Stage II cancer).
+
+
+******
+
+dados contínuos
+
+Dado numérico com um número potencialmente infinito de valores possíveis numa faixa contínua. Nota: altura, peso e pressão sanguínea são exemplos de dados contínuos
+
+continuous data
+
+Numerical data with a potentially infinite number of possible values on a continuum. Note: Height, weight and blood pressure are examples of continuous data.
+
+******
+
+dados de paciente individual
+
+Numa revisão sistemática, dados brutos do participante de cada estudo em cada ensaio incluído em oposição aos dados agregados nos grupos comparados em cada estudo.
+
+individual patient data
+
+In a systematic review, raw data for each study participant in each included trial, as opposed to aggregate data on the groups compared in each study.
+
+******
+
+dados dicotômicos
+
+Veja dados binários
+
+dichotomous data
+
+See binary data.
+
+******
+
+dados discretos
+
+Um conjunto de valores é chamado de discreto se os valores/observações  pertencentes a esse conjunto são distintos e separados, isto é, podem ser contados (1,2,3…). Nota 1: exemplos incluem o número de paciente das cirurgias de um médico; sexo (masculino, feminino); grupo sanguíneo (O,A,B,AB). Nota 2: dados discretos são a contrapartida de dados contínuos.
+
+discrete data
+
+A set of data is said to be discrete if the values/observations belonging to it are distinct and separate, i.e. they can be counted (1,2,3,....). Note 1: Examples include the number of patients in a doctor’s surgery; sex (male, female); blood group (O, A, B, AB). Note 2: Discrete data is the counterfactual to continuous data.
+
+******
+
+dados ordinais
+
+Dados classificados em duas ou mais categorias, quando existe uma ordem natural das mesmas, tais como não fumantes, ex-fumantes, fumantes leves e fumantes pesados. Sinônimo: dados categóricos ordenados
+
+ordinal data
+
+Data classified into two or more categories where there is a natural order to the categories, such as non-smokers, ex-smokers, light smokers and heavy smokers. Syn.: ordered categorical data
+
+******
+
+declaração de conflito de interesse
+
+declaração de uma pessoa contribuindo para um relatório ou revisão literária  de qualquer relação financeira ou pessoal que pudesse influenciar os resultados ou a interpretação dos mesmos nesse relatório ou revisão.
+
+conflict of interest declaration
+
+A statement by a person contributing to an evaluation report or a literature review of any financial or personal relationship that could influence the results or the interpretation of the results of this report or review.
+
+******
+
+Desconto
+
+Um processo matemático usado para trazer custos e benefícios futuros ao seu valor presente. Nota: Estes ajustes implicam que os custos futuros e benefícios tenham um valor menor do que os mesmos custos e benefícios no presente.
+
+discounting 
+
+A mathematical process used to bring future costs and benefits to their present value. Note: These adjustments imply that future costs and benefits have less value than the same costs and benefits in the present.
+
+******
+
+desenvolvimento de consenso
+
+Recomendações ou diretrizes práticas produzidas através de consenso especializado
+
+consensus development
+
+The recommendations or practice guideline produced through expert consensus.
+
+******
+
+desfecho
+
+Um componente mensurável observado após a aplicação de uma intervenção.
+
+
+outcome
+
+A measurable component observed after an intervention has been applied.
+
+******
+
+desfecho clínico
+
+desfecho da maior importância para o paciente, determinado com base no problema de saúde sendo estudado (Exemplo, a frequencia de cura de fraturas osteoporéticas ou de úlceras gátricas, e suas taxas de recaída). Nota: os desfechos clínicos diferem dos desfechos na saúde pois o primeiro está relacionado com o efeito da doença enquanto que o segundo esta relacionado com o efeito na saúde (saúde pública, por exemplo).  
+
+clinical outcome
+
+An outcome of major importance for the patient, determined on the basis of the health problem being studied (e.g. the frequency of healing of osteoporotic fractures or gastric ulcers, and their relapse rates). Note: The clinical outcome differs from the health outcome in that the former has to do with the effect on the disease, while the latter has to do with the effect on health (public health, for example).
+
+******
+
+desfecho de pesquisa
+
+Um campo de questionamento com foco em problemas de saúde ou doenças e que visa essencialmente a avaliação de cuidados entregues por equipes multidisciplinares estabelecidas de acordo com as definições gerais do mundo real. Nota: este tipo de pesquisa avalia uma ampla faixa de indicadores, incluindo mortalidade, morbidade, estado funcional, bem estar mental e outros aspectos da saude relacionados à qualidade de vida. Pode também incluir uma avaliação do impacto econômico de desfechos clínicos - por exemplo, uma análise de custo-efetividade ou custo-utilidade. Pode ser baseada em qualquer método de coleta de dados originais ou para sumarizar dados de estudos originais.
+
+outcomes research
+
+A field of inquiry that focusses on health problems or diseases and that is essentially aimed at evaluating the care delivered by multidisciplinary teams in general, real-world settings. Note: This type of research looks at a wide range of indicators, including mortality, morbidity, functional status, mental well-being and other aspects of health-related quality of life. It may also include an evaluation of the economic impact of clinical outcomes—a cost-effectiveness or cost-utility analysis, for example. It may be based on any method for collecting original data or for summarizing data from original studies.
+
+******
+
+desfecho intermediário
+
+Veja desfecho substituto.
+
+intermediate outcome
+
+See surrogate endpoint. 
+
+******
+
+desfecho na saúde
+
+O resultado de uma intervenção ( ou da ausência de uma intervenção) na saúde ou no bem-estar de um indivíduo ou de uma população. Nota: a intervenção pode ser um procedimento clínico, intervenção social, política de saúde, programa público, etc. Nota: o desfecho na saúde difere do desfecho clínico no qual o primeiro está relacionado com o efeito na saúde (saúde pública, por exemplo), enquanto que o segundo está relacionado com o efeito da doença.
+
+health outcome
+
+The result of an intervention (or the absence of an intervention) on the health or well-being of a subject or a population. Note: The intervention may be a clinical procedure, social intervention, health policy, public programme, etc. Note: The health outcome differs from the clinical outcome in that the former has to do with the effect on health (public health, for example), while the latter has to do with the effect on the disease.
+
+******
+
+desfecho substituto
+
+Um indicador que, quando não sendo de interesse direto para o paciente, pode refletir desfechos importantes. Nota: por exemplo, a pressão sanguínea não é do interesse clínico direto para o paciente, mas é frequentemente usada como critério de avaliação em ensaios clínicos porque é um fator de risco para  acidentes vasculares e ataques cardíacos. Um desfecho intermediário é frequentemente um marcador psicológico ou bioquímico e pode ser medido rápido e facilmente, e isso é considerado de grande valor preditivo. É frequentemente usado quando a observação do desfecho clínico requer um longo acompanhamento. Nota: desfecho intermediário não é sinônimo de desfecho substituto. No entanto, um desfecho intermediário pode tornar-se um desfecho substituto se for mais fácil de ser medido do que um critério clínico ou se houver uma relação estatística entre a ocorrência do indicador clínico e a ocorrência do desfecho substituto, ou se houver uma relação permitindo predizer o efeito do fator estudado no indicador clínico, com base no efeito observado no desfecho substituto.
+
+surrogate endpoint
+
+An indicator that, while not being of direct interest for the patient, may reflect important outcomes. Note: For example, blood pressure is not of direct clinical interest to the patient, but is often used as an evaluation criterion in clinical trials because it is a risk factor for stroke and heart attacks. An intermediate outcome is often a physiological or biochemical marker that can be quickly and easily measured, and that is considered to have great predictive value. It is often used when observation of clinical outcomes requires long follow-up. Note: Intermediate outcome is not a synonym for surrogate endpoint. However, an intermediate outcome can become a surrogate endpoint if it is easier to measure than a clinical criterion or if there is a statistical relationship between the occurrence of the clinical outcome indicator and the occurrence of the surrogate endpoint, or if there is a relationship allowing for prediction of the effect of the factor studied on the clinical indicator, on the basis of the observed effect on the surrogate endpoint. 
+
+******
+
+desinvestimento
+
+A redução deliberada e sistemática de investimento numa tecnologia de saúde questionável ou, comparativamente, de menor valor. Nota: O investimento é frequentemente governamental, ou seja, susidiando os custos do cuidado com a saúde.
+
+desinvestment
+
+The deliberate and systematic reduction of funding for a health technology of questionable or comparatively low value. Note: The funding is often government funding, i.e. subsidisation of the costs of health care.
+
+******
+
+diagnóstico
+
+A determinação da natureza de uma doença através de seus sinais e sintomas, e pelos resultados de investigações. Ao se estabelecer um diagnóstico também se excluem outras doenças e fatores causais das manifestações clínicas.
+
+diagnosis
+
+The determination of the nature of a disease by means of its signs and symptoms and the results of investigations.Note: The establishment of a diagnosis also means ruling out other diseases and causal factors for the clinical manifestations.
+
+******
+
+diferença da média ponderada
+
+Em meta-análise, quando os resultados do estudo medidos usando a mesma escala são combinados,e  a diferença entre as duas médias é pesada pela precisão do estudo. Nota: a precisão da estimativa do estudo do efeito pode, por exemplo, corresponder ao inverso da variância. (conceito relacionado: diferença da média padrão).
+
+weighted mean difference (WMD)
+
+In a meta-analysis, when study results measured using the same scale are being combined, the difference between two means, weighted by the precision of the study. Note: The precision of the study’s estimate of effect may, for example, correspond to the inverse of the variance. (Related concept: standardised mean difference)
+
+******
+
+diferença de risco
+
+O valor da diferença entre a probabilidade de que um evento ocorrerá no grupo exposto a um dado fator e a probabilidade de que esse evento  ocorrerá no grupo não exposto a esse fator. Nota: por exemplo, se os resultados de um ensaio forem que a probabilidade de morte foi de 25% no grupo controle e de 10% no grupo experimental, a redução de risco absoluto será de 0,25-0,10=0,15. Sinônimo: redução de risco absoluto (conceitos relacionados: número necessário para tratamento, razão de chances e redução do risco relativo).
+
+risk difference
+
+The value of the difference between the probability that an event will occur in the group exposed to a given factor and the probability that this event will occur in the group not exposed to this factor. Note: For example, if the results of a trial were that the probability of death was 25% in the control group and 10% in the experimental group, the absolute risk reduction would be 0.25 – 0.10 = 0.15. Syn.: absolute risk reduction. (Related concepts: number needed to treat, odds ratio and relative risk reduction)
+
+******
+
+diferença padronizada da média 
+
+A diferença entre duas médias, dividida por uma estimativa do desvio padrão intra-grupo. Nota: quando uma variável contínua (tal como a dor) é medida numa variedade de estudos transversais (usando diferentes escalas), pode ocorrer a impossibilidade de se comparar ou combinar os resultados do estudo numa meta análise. Se os efeitos são expressos como um valor padronizado, os resultados podem ser combinados, desde que não sejam mais expressos com unidades de medida. Diferenças de médias padronizadas são às vezes referidas como um "índice d". *   *Conceito introduzido por J. Cohen (1988). Outra forma de referência: diferença padronizada da média (SMD).
+
+standardised mean difference (SMD)
+
+The difference between two means, divided by an estimate of the within-group standard deviation. Note: When a continuous variable (such as pain) is measured in a variety of ways across studies (using different scales), it may prove impossible to compare or combine the study results in a meta-analysis. If the effects are expressed as a standardised value, the results can be combined, since they are no longer expressed as units of measurement. Standardised mean differences are sometimes referred to as a “d index.”* *Concept introduced by J. Cohen (1988). Alternative spelling: standardized mean difference (SMD).
+
+******
+
+difusão de inovação
+
+Um processo onde uma inovação é comunicada ao longo do tempo através de certos canais dos membros de um sistema social. Nota: no caso de tecnologias médicas, são os fatores que influenciam a adoção de uma nova tecnologia dentro de um sistema de cuidados de saúde.
+
+diffusion of inovation
+
+A process whereby an innovation is communicated over time through certain channels among the members of a social system. Note: In the case of medical technologies, factors influencing the adoption of a new technology within the health care system.
+
+******
+
+difusão de tecnologia
+
+Veja difusão de inovação.
+
+technology diffusion
+
+See diffusion of innovation.
+
+******
+
+dilema
+
+Uma escolha forçada entre dois cursos de ações, ambas com desvantagens.
+
+dilemma
+
+A forced choice between two courses of actions, both of which have disadvantages.
+
+******
+
+diretriz clínica
+
+diretriz desenvolvida usando-se um método sistemático para ajudar os praticantes e os pacientes a tomar decisões sobre um cuidado de saúde adequado. Nota: o desenvolvimento de diretrizes clínicas pode usar métodos de avaliação ou ser baseados em relatórios de avaliação tecnológica.
+
+clinical guideline
+
+A guideline developed using a systematic method to help practitioners and patients make decisions about appropriate health care. Note: The development of clinical guidelines may use technology assessment methods or be based on technology assessment reports.
+
+******
+
+disposição em pagar
+
+O montante máximo que uma pessoa está disposta a pagar: (a) para obter um bom estado de saúde ou um desfecho em particular, ou para aumentar sua probabilidade de ocorrência, ou (b) para evitar um mau estado de saúde ou desfecho, ou para reduzir sua probabilidade de ocorrência.
+
+willingness to pay (WTP)
+
+The maximum amount that a person is willing to pay: (a) to achieve a good health state or particular outcome, or to increase its probability of occurrence; or (b) to avoid a bad health state or outcome, or to decrease its probability of occurrence.
+
+******
+
+disseminação
+
+Um processo de transmissão de informação a audiências-alvo.
+
+dissemination
+
+A process for transmission of information to target audiences.
+
+******
+
+distribuição
+
+Em estatística, uma função matemática descrevendo a frequência dos valoes de uma variável.
+
+distribution
+
+In statistics, a mathematical function describing the frequency of each value of a variable.
+
+******
+
+distribuição de probabilidades
+
+
+Uma função matemática descrevendo as probabilidades associadas com cada valor. Nota: por exemplo, as distribuições normal, qui-quadrado, binomial ou Poisson.
+
+probability distribution
+
+A mathematical function describing the probabilities associated with each value. Note: For example, normal, chi square, binomial or Poisson distribution.
+
+******
+
+dominância
+
+A superioridade de uma opção que proporciona menores custos do que outra opção e que tem benefícios iguais ou maiores do que a outra opção, ou que proporciona custos iguais ao da outra opção, porém com maiores benefícios.
+
+dominance
+
+The superiority of an option that entails lower costs than another option and has benefits equal to or greater than the other option, or that entails costs equal to those of another option and has greater benefits than the other option.
+
+******
+
+duplo-cego
+
+Um ensaio no qual as duas partes do ensaio (objetos e investigadores) não sabem como os tratamentos são alocados. Nota: este método reduz o risco de viés ao se medir os desfechos. (coceitos relacionados: cegamento, cegamento único, cegamento triplo). Sinônimo: mascaramento.  Nota: os termos cegamento e mascaramento são sinônimos e o termo mascaramento duplo é preferido em ensaios oftálmicos, ao invés de duplamento cego.
+
+double-blind
+
+A trial in which the two parties in the trial (the subjects and the investigators) do not know how the treatments are allocated. Note: This method reduces the risk of bias when measuring outcomes. (Related concepts: blinding, single-blind and triple-blind). Syn.: masking. Note: The terms blinding and masking are synonymous and the term double-masked is preferred over double-blind for ophthalmology trials. 

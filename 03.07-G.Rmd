@@ -1,0 +1,29 @@
+# G {-}
+
+grupo de controle
+
+Um grupo de de pessoas que serve como base de comparação para se estabelecer os efeitos da intervenção aplicada aos elementos do grupo de tratamento. Nota: dependendo das circunstâncias do ensaio, o  grupo de controle pode não receber nenhum tratamento, ou receber o tratamento padrão, ou receber um placebo. Para tornar a comparação válida, a composição do grupo de controle deve se assemelhar tanto quanto possível ao grupo de tratamento.
+
+control group
+
+A group of persons that serves as the basis of comparison for assessing the effects of the intervention applied to the subjects in the treatment group. Note: Depending on the circumstances of the trial, a control group may receive no treatment, the usual or standard treatment, or a placebo. To make the comparison valid, the composition of the control group must resemble that of the treatment group as closely as possible.
+
+******
+
+grupo de enfoque
+
+Um processo para colher informação através de entrevistas em grupo, com foco na comunicação e interações entre os participantes. Nota: os participantes constituem um grupo relativamente homogêneo (8 a 12 pessoas) solicitados a comentar sobre certas questões propostas pelo moderador. Eles são encorajados a comentar os pontos de vista dos demais elementos do grupo, ao invés de esperar que o moderador pergunte. Este processo ajuda a explorar e esclarecer pontos de vista, que poderiam ser mais difíceis de obter numa entrevista cara a cara.
+
+focus group
+
+A process for gathering information through group interviews, with a focus on communication and interactions among the participants. Note: The participants are a relatively homogeneous group (8 to 12 people) asked to comment on certain questions posed by the moderator. They are encouraged to comment on each other’s points of view, rather than to wait for the moderator to ask them to answer questions in turn. This process helps explore and clarify points of view, which would be more difficult to do in one-on-one meetings.
+
+******
+
+guia
+
+Veja guia clínica.
+
+guideline
+
+See clinical guideline.

@@ -1,0 +1,62 @@
+# H {-}
+
+hermenêutica
+
+A interpretação de um todo em relação a suas partes e vice-versa. Nota: originalmente a interpretação de textos bíblicos.
+
+hermeneutics
+
+The interpretation of a whole in relation to its parts, and vice versa. Note: Originally, the interpretation of biblical texts.
+
+******
+
+heterogeneidade
+
+Numa revisão sistemática corresponde à variabilidade ou às diferenças presentes nos estudos selecionados. Nota: às vezes uma distinção é feita entre "heterogeneidade estatística" ( diferenças nos efeitos reportados) e "heterogeneidade metodológica" (diferenças no projeto do estudo em relação às características chave dos indivíduos, intervenções ou dos critéros de avaliação de desfechos). Testes estatísticos de heterogeneidade são usados para se determinar se a variabilidade observada nos resultados do  estudo é maior do que a variabilidae que pode ser esperada ao acaso. No entanto, esses testes tem baixo poder estatístico. Antônimo: homogeneidade
+
+heterogeneity
+
+In a systematic review, the variability of or differences in the selected studies.
+
+Note: A distinction is sometimes made between “statistical heterogeneity” (differences in the reported effects) and “methodological heterogeneity” (differences in study design with regard to the key characteristics of the subjects, interventions or outcome evaluation criteria). Statistical tests of heterogeneity are used to determine whether the observed variability in study results effect size is greater than the variability that can be expected to occur by chance. However, these tests have low statistical power. Antonym: homogeneity.
+
+******
+
+hierarquia de evidência
+
+Uma classificação de estudos com base na sua validade. Nota: esse método é usado para se determinar o peso que deveria ser atribuido a um estudo. Várias hierarquias de evidência são usadas na avaliação de tecnologia em saúde.
+
+hierarchy of evidence
+
+A classification of studies on the basis of their validity.  Note: This method is used to determine the weight that should be given to a study. Various hierarchies of evidence are used in health technology assessment.
+
+******
+
+hipótese nula
+
+No teste de hipóteses, uma proposta de que não há associação entre duas variáveis ou que não existe diferença entre dois valores. Nota: por exemplo, a hipótese nula pode indicar que uma intervenção não tem efeito, isto é, que não há uma diferença verdadeira entre os resultados obtidos no grupo experimental e no grupo de controle.
+
+null hypothesis
+
+In hypothesis testing, a proposal that there is no association between two variables or no difference between two values. Note: For example, the null hypothesis could indicate that an intervention has no effect, i.e. that there is no true difference between the results obtained in the experimental group and the control group.
+
+******
+
+história natural
+
+O curso de uma doença desde seu começo até sua resolução. Nota: muitas doenças possuem estágios bem definidos, tais como o início patológico e os estágios pré-sintomáticos e de manifestação clínica da doença.
+
+natural history
+
+The course of a disease from onset to resolution. Note: Many diseases have well-defined stages, such as the pathological onset, presymptomatic and clinically manifest disease stages.
+
+******
+
+homogeneidade
+
+A similaridade de estudos selecionados numa revisão sistemática. Nota: estudos são considerados "estatisticamente homogêneos" se seus resultados não variarem mais do que seria esperado pelo acaso. Numa revisão sistemática, a "homogeneidade clínica" significa que os indivíduos, intervenções e instrumentos de medição são similares ou comparáveis. Antônimo: heterogeneidade.
+
+Homogeneity
+
+In a systematic review, the similarity of the studies selected. Note: Studies are considered “statistically homogeneous” if their results vary no more than they might be expected to by chance. In a systematic review, “clinical homogeneity” means that the subjects, interventions and measuring instruments are similar or comparable. Antonym: heterogeneity.
+

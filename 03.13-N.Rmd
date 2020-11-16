@@ -1,0 +1,39 @@
+# N {-}
+
+nível de evidência
+
+Veja hierarquia de evidência.
+
+level of evidence
+
+See hierarchy of evidence.
+
+******
+
+nova tecnologia em saúde
+
+Uma tecnologia em saúde que está em fase de lançamento, logo após os estágios de pós-marketing ou dos estágios iniciais de difusão. Nota 1: termos relacionados incluem tecnologia emergente em saúde.
+
+new health technology
+
+A health technology that is in the launch, early post-marketing or early diffusion stages. Note 1: Related terms include emerging health technology.
+
+******
+
+número necessário para produzir um dano (NNH)
+
+O número de indivíduos tratados por indivíduo experimentando um efeito adverso. Nota: este conceito é o inverso da diferença de risco absoluto. O termo foi criado como uma variante do número necessário para tratamento.
+
+number needed to harm (NNH)
+
+The number of subjects treated per subject experiencing an adverse effect. Note: This concept is the inverse of the absolute risk difference. The term was created as a variant of number needed to treat.
+
+******
+
+número necessário para tratar (NNT)
+
+O número de indivíduos tratados por indivíduo com um desfecho favorável. Nota: é o inverso da redução do risco absoluto (1 ÷ redução do risco absoluto). Assim, se os resultados de um estudo indicarem que a probabilidade de morte num grupo controle for 25% e a probabilidade de morte num grupo tratamento dor 10%, o número necessário para tratar deveria ser 1 ÷ (0,25 - 0,10) = 6,7, ou seja, 7 indivíduos. Conceitos relacionados: diferença de risco, redução do risco absoluto, redução do risco relativo e proporcão de chances.
+
+number needed to treat (NNT)
+
+The number of subjects treated per subject with a favourable outcome. Note: It is the inverse of absolute risk reduction (1 ÷ absolute risk reduction). Thus, if the results of a study indicate that the probability of death in a control group is 25% and the probability of death in a treatment group is 10%, the number needed to treat would be 1.0 ÷ (0.25 - 0.10) = 6.7, therefore 7 subjects. Related concepts: risk difference, absolute risk reduction, relative risk reduction and odds ratio
